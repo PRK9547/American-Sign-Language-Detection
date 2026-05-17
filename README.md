@@ -6,6 +6,8 @@ The system detects hand landmarks from webcam input and classifies ASL alphabet 
 <img width="1600" height="959" alt="image" src="https://github.com/user-attachments/assets/238abbc6-5e41-409b-9c0f-26dd242c201f" />
 
 
+
+
 ## Features
 
 * Real-time ASL hand gesture detection
