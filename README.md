@@ -78,9 +78,6 @@ The project supports custom dataset collection and training for new ASL gestures
 * Multi-hand gesture recognition
 * Speech output generation
 
-## sample video
-
-
 ## Author
 
 Praveen Kumar
