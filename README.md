@@ -3,6 +3,8 @@
 This project is a real-time American Sign Language (ASL) hand gesture recognition system built using Python, MediaPipe, OpenCV, and TensorFlow Lite.
 
 The system detects hand landmarks from webcam input and classifies ASL alphabet gestures in real time using a trained keypoint classification model.
+<img width="1600" height="959" alt="image" src="https://github.com/user-attachments/assets/238abbc6-5e41-409b-9c0f-26dd242c201f" />
+
 
 ## Features
 
